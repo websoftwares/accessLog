@@ -1,9 +1,9 @@
 #AccessLog (v0.0.*)
 Log [PSR-7](http://www.php-fig.org/psr/psr-7/) http messages using a [PSR-3](http://www.php-fig.org/psr/psr-3/) logger instance following [apache2 access log](https://httpd.apache.org/docs/2.4/logs.html#accesslog) format.
 
-[![Build Status](https://api.travis-ci.org/websoftwares/access-log.png)](https://travis-ci.org/websoftwares/access-log)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/websoftwares/access-log/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/websoftwares/access-log/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/websoftwares/access-log/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/websoftwares/access-log/?branch=master)
+[![Build Status](https://api.travis-ci.org/websoftwares/accessLog.png)](https://travis-ci.org/websoftwares/accessLog)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/websoftwares/accessLog/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/websoftwares/accessLog/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/websoftwares/accessLog/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/websoftwares/accessLog/?branch=master)
 
 ## Installing via Composer (recommended)
 
