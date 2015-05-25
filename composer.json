@@ -31,8 +31,7 @@
     "require-dev": {    
         "phpunit/phpunit": "dev-master",
         "satooshi/php-coveralls": "dev-master",
-        "zendframework/zend-diactoros": "1.0.0",
-
+        "zendframework/zend-diactoros": "1.0.0"
     },
     "autoload-dev": {
         "psr-4": {
